@@ -35,7 +35,7 @@ Welcome! I am Tingyuan Li, a Ph.D. student in Economics at Emory University.
 
 My research lies at the intersection of econometric theory and applied
 econometrics, with a particular focus on causal inference using methods such
-as difference-in-differences, machine learning, and optimal transport.
+as difference-in-differences, machine learning, and optimal transport. I am currently a research assistant to Professor Pedro H. C. Sant’Anna.
 
 Please feel free to contact me via
 [email](mailto:tli362@emory.edu). You can also connect with me on
